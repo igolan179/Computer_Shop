@@ -1,0 +1,7 @@
+C:\Dev\Computer_Shop\Computer_Shop\bin\Debug\Computer_Shop.exe.config
+C:\Dev\Computer_Shop\Computer_Shop\bin\Debug\Computer_Shop.exe
+C:\Dev\Computer_Shop\Computer_Shop\bin\Debug\Computer_Shop.pdb
+C:\Dev\Computer_Shop\Computer_Shop\obj\Debug\Computer_Shop.csprojAssemblyReference.cache
+C:\Dev\Computer_Shop\Computer_Shop\obj\Debug\Computer_Shop.csproj.CoreCompileInputs.cache
+C:\Dev\Computer_Shop\Computer_Shop\obj\Debug\Computer_Shop.exe
+C:\Dev\Computer_Shop\Computer_Shop\obj\Debug\Computer_Shop.pdb
